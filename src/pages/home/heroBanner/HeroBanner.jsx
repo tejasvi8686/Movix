@@ -11,7 +11,7 @@ const HeroBanner = () => {
   const navigate = useNavigate();
   
 
-  const { data, loading } = useFetch("/movies/upcoming");
+  const { data, loading } = useFetch("/movie/upcoming");
 
 
 
