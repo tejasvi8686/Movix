@@ -4,6 +4,7 @@ import "./style.scss";
 
 import useFetch from "../../hooks/useFetch";
 import DetailsBanner from "./detailsBanner/DetailsBanner";
+import Cast from "./cast/Cast";
 
 
 
@@ -16,8 +17,8 @@ const Details = () => {
   return (
     <div>
     <DetailsBanner video={data?.results?.[0]} 
-    crew={credits?.crew}
-    />
+    crew={credits?.crew} />
+    <Cast data={credits?.cast} loading={creditsLoading} />
     </div>
   )
 }
