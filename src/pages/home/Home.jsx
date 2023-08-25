@@ -3,14 +3,17 @@ import "./style.scss";
 
 import HeroBanner from "./heroBanner/HeroBanner";
 import Trending from "./trending.jsx/Trending";
+import Popular from "./popular/Popular";
+import TopRated from "./topRated/TopRated";
 
-HeroBanner;
 
 const Home = () => {
   return (
     <div className="homepage">
       <HeroBanner />
       <Trending />
+      <Popular />
+      <TopRated />
     </div>
   );
 };
