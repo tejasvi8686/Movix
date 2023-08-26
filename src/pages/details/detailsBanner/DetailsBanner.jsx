@@ -13,7 +13,7 @@ import { PlayIcon } from "../PlayBtn";
 
 import PosterFallback from "../../../assets/no-poster.png";
 import VideoPopup from "../../../components/videoPopup/VideoPopup";
-import Img from "../../../components/lazyLoadImage/img";
+import Img from "../../../components/lazyLoadImage/";
 VideoPopup
 
 const DetailsBanner = ({ video, crew }) => {
