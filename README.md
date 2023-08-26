@@ -24,9 +24,9 @@
 
 ## Links
 
-🔗 Experience the live demo right here: https://movix-tejasvi8686.vercel.app/
+🔗 Experience the live demo right here: https://movix-tejasvi8686.vercel.app
 
-📁 GitHub Repository: https://github.com/tejasvi8686/Movix(#).
+📁 GitHub Repository: https://github.com/tejasvi8686/Movix
 
 ## Skills Gained
 
