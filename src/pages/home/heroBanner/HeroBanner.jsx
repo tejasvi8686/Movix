@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 import "./style.scss";
 
 import useFetch from "../../../hooks/useFetch";
-import Img from "../../../components/lazyLoadImage/img";
+import Img from "../../../components/lazyLoadImage/Img";
 import ContentWrapper from "../../../components/contentWrapper/ContentWrapper";
 
 const HeroBanner = () => {
