@@ -14,15 +14,15 @@ import Spinner from "../../components/spinner/Spinner";
 let filters = {};
 
 const sortbyData = [
-    { value: "popularity.desc", label: "Popularity Descending" },
-    { value: "popularity.asc", label: "Popularity Ascending" },
-    { value: "vote_average.desc", label: "Rating Descending" },
-    { value: "vote_average.asc", label: "Rating Ascending" },
+    { value: "popularity.desc", label: "Most Popular" },
+    { value: "popularity.asc", label: "Least Popular" },
+    { value: "vote_average.desc", label: "Highest Rated" },
+    { value: "vote_average.asc", label: "Lowest Rated" },
     {
         value: "primary_release_date.desc",
-        label: "Release Date Descending",
+        label: "Newest",
     },
-    { value: "primary_release_date.asc", label: "Release Date Ascending" },
+    { value: "primary_release_date.asc", label: "Oldest" },
     { value: "original_title.asc", label: "Title (A-Z)" },
 ];
 
