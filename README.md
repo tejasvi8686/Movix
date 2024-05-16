@@ -6,6 +6,20 @@
 
 🌟 With a blend of React, Redux, and SCSS, I've crafted an immersive platform to explore your favorite Movies and TV Shows. From the vibrant homepage to the detailed Movie/TV Show pages, every corner of Movix exudes the magic of cinema.
 
+## ScreenShot
+
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/1.png" width=100% height=100%/> <img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/2.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/3.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/4.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/5.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/6.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/7.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/8.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/9.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/10.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/11.png" width=100% height=100%/>
+<img src="https://github.com/tejasvi8686/Movix/blob/main/screenshots/12.png" width=100% height=100%/>
+
 ## Homepage
 
 🏠 The homepage kicks off with a sleek banner and a search bar, followed by trending sections. Toggle buttons make sorting a breeze – choose between day and week for Trending, and between Movies and TV Shows for What's Popular and Top Rated. All this comes to a delightful close with an eye-catching footer.
