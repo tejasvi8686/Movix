@@ -1,4 +1,4 @@
-# Movix: Explore Movies and TV Shows with React
+# Movix: Explore Movies and TV Shows with React 
 
 🎬 Introducing Movix: a React-powered website I'm thrilled to share with you all! 🚀
 
